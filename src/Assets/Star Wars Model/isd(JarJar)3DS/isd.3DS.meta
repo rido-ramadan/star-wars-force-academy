@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 1c2a4b413ef9fd64bb95817e5adc7470
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Center - S
+    100002: Hangarbe10
+    100004: Hangarbe11
+    100006: Hangarbe12
+    100008: Hangarbe13
+    100010: Hangarbe14
+    100012: Hangarbel0
+    100014: Hangarbel1
+    100016: Hangarbel2
+    100018: Hangarbel3
+    100020: Hangarbel4
+    100022: Hangarbel5
+    100024: Hangarbel6
+    100026: Hangarbel7
+    100028: Hangarbel8
+    100030: Hangarbel9
+    100032: Hangarbele
+    100034: Hangarbuc0
+    100036: Hangarbuc1
+    100038: Hangarbuch
+    100040: Imperial S
+    100042: //RootNode
+    100044: ISD - Back
+    100046: ISD - Bri0
+    100048: ISD - Brid
+    100050: ISD - Fusi
+    100052: ISD - Glo0
+    100054: ISD - Glow
+    100056: ISD - Guns
+    100058: ISD - Guns_MeshPart0
+    100060: ISD - Guns_MeshPart1
+    100062: ISD - Han0
+    100064: ISD - Han1
+    100066: ISD - Han2
+    100068: ISD - Hang
+    100070: ISD - Hau0
+    100072: ISD - Hau1
+    100074: ISD - Hau2
+    100076: ISD - Hau3
+    100078: ISD - Hau4
+    100080: ISD - Hau5
+    100082: ISD - Haup
+    100084: ISD - Hull
+    100086: ISD - Left
+    100088: ISD - Left_MeshPart0
+    100090: ISD - Left_MeshPart1
+    100092: ISD - Li10
+    100094: ISD - Lig0
+    100096: ISD - Lig1
+    100098: ISD - Lig2
+    100100: ISD - Lig3
+    100102: ISD - Lig4
+    100104: ISD - Lig5
+    100106: ISD - Lig6
+    100108: ISD - Lig7
+    100110: ISD - Lig8
+    100112: ISD - Lig9
+    100114: ISD - Ligh
+    100116: ISD - Mai0
+    100118: ISD - Main
+    100120: ISD - Righ
+    100122: ISD - Righ_MeshPart0
+    100124: ISD - Righ_MeshPart1
+    100126: ISD - Sens
+    100128: ISD - Sma0
+    100130: ISD - Smal
+    100132: ISD - Stru
+    100134: Omni01
+    100136: Panorama-V
+    100138: Panorama-V.target
+    100140: Trieberks0
+    100142: Trieberks1
+    100144: Trieberksl
+    400000: Center - S
+    400002: Hangarbe10
+    400004: Hangarbe11
+    400006: Hangarbe12
+    400008: Hangarbe13
+    400010: Hangarbe14
+    400012: Hangarbel0
+    400014: Hangarbel1
+    400016: Hangarbel2
+    400018: Hangarbel3
+    400020: Hangarbel4
+    400022: Hangarbel5
+    400024: Hangarbel6
+    400026: Hangarbel7
+    400028: Hangarbel8
+    400030: Hangarbel9
+    400032: Hangarbele
+    400034: Hangarbuc0
+    400036: Hangarbuc1
+    400038: Hangarbuch
+    400040: Imperial S
+    400042: //RootNode
+    400044: ISD - Back
+    400046: ISD - Bri0
+    400048: ISD - Brid
+    400050: ISD - Fusi
+    400052: ISD - Glo0
+    400054: ISD - Glow
+    400056: ISD - Guns
+    400058: ISD - Guns_MeshPart0
+    400060: ISD - Guns_MeshPart1
+    400062: ISD - Han0
+    400064: ISD - Han1
+    400066: ISD - Han2
+    400068: ISD - Hang
+    400070: ISD - Hau0
+    400072: ISD - Hau1
+    400074: ISD - Hau2
+    400076: ISD - Hau3
+    400078: ISD - Hau4
+    400080: ISD - Hau5
+    400082: ISD - Haup
+    400084: ISD - Hull
+    400086: ISD - Left
+    400088: ISD - Left_MeshPart0
+    400090: ISD - Left_MeshPart1
+    400092: ISD - Li10
+    400094: ISD - Lig0
+    400096: ISD - Lig1
+    400098: ISD - Lig2
+    400100: ISD - Lig3
+    400102: ISD - Lig4
+    400104: ISD - Lig5
+    400106: ISD - Lig6
+    400108: ISD - Lig7
+    400110: ISD - Lig8
+    400112: ISD - Lig9
+    400114: ISD - Ligh
+    400116: ISD - Mai0
+    400118: ISD - Main
+    400120: ISD - Righ
+    400122: ISD - Righ_MeshPart0
+    400124: ISD - Righ_MeshPart1
+    400126: ISD - Sens
+    400128: ISD - Sma0
+    400130: ISD - Smal
+    400132: ISD - Stru
+    400134: Omni01
+    400136: Panorama-V
+    400138: Panorama-V.target
+    400140: Trieberks0
+    400142: Trieberks1
+    400144: Trieberksl
+    2300000: ISD - Back
+    2300002: ISD - Bri0
+    2300004: ISD - Brid
+    2300006: ISD - Fusi
+    2300008: ISD - Glo0
+    2300010: ISD - Glow
+    2300012: ISD - Guns_MeshPart0
+    2300014: ISD - Guns_MeshPart1
+    2300016: ISD - Han0
+    2300018: ISD - Han1
+    2300020: ISD - Han2
+    2300022: ISD - Hau0
+    2300024: ISD - Hau1
+    2300026: ISD - Hau2
+    2300028: ISD - Hau3
+    2300030: ISD - Hau4
+    2300032: ISD - Hau5
+    2300034: ISD - Haup
+    2300036: ISD - Hull
+    2300038: ISD - Left_MeshPart0
+    2300040: ISD - Left_MeshPart1
+    2300042: ISD - Mai0
+    2300044: ISD - Main
+    2300046: ISD - Righ_MeshPart0
+    2300048: ISD - Righ_MeshPart1
+    2300050: ISD - Sens
+    2300052: ISD - Sma0
+    2300054: ISD - Smal
+    2300056: ISD - Stru
+    3300000: ISD - Back
+    3300002: ISD - Bri0
+    3300004: ISD - Brid
+    3300006: ISD - Fusi
+    3300008: ISD - Glo0
+    3300010: ISD - Glow
+    3300012: ISD - Guns_MeshPart0
+    3300014: ISD - Guns_MeshPart1
+    3300016: ISD - Han0
+    3300018: ISD - Han1
+    3300020: ISD - Han2
+    3300022: ISD - Hau0
+    3300024: ISD - Hau1
+    3300026: ISD - Hau2
+    3300028: ISD - Hau3
+    3300030: ISD - Hau4
+    3300032: ISD - Hau5
+    3300034: ISD - Haup
+    3300036: ISD - Hull
+    3300038: ISD - Left_MeshPart0
+    3300040: ISD - Left_MeshPart1
+    3300042: ISD - Mai0
+    3300044: ISD - Main
+    3300046: ISD - Righ_MeshPart0
+    3300048: ISD - Righ_MeshPart1
+    3300050: ISD - Sens
+    3300052: ISD - Sma0
+    3300054: ISD - Smal
+    3300056: ISD - Stru
+    4300000: ISD - Stru
+    4300002: ISD - Brid
+    4300004: ISD - Glow
+    4300006: ISD - Glo0
+    4300008: ISD - Guns_MeshPart0
+    4300010: ISD - Guns_MeshPart1
+    4300012: ISD - Main
+    4300014: ISD - Back
+    4300016: ISD - Sens
+    4300018: ISD - Smal
+    4300020: ISD - Bri0
+    4300022: ISD - Fusi
+    4300024: ISD - Hull
+    4300026: ISD - Left_MeshPart0
+    4300028: ISD - Left_MeshPart1
+    4300030: ISD - Righ_MeshPart0
+    4300032: ISD - Righ_MeshPart1
+    4300034: ISD - Mai0
+    4300036: ISD - Haup
+    4300038: ISD - Hau0
+    4300040: ISD - Hau1
+    4300042: ISD - Hau2
+    4300044: ISD - Hau3
+    4300046: ISD - Han0
+    4300048: ISD - Han1
+    4300050: ISD - Hau4
+    4300052: ISD - Sma0
+    4300054: ISD - Hau5
+    4300056: ISD - Han2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

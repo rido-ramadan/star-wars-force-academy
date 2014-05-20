@@ -1,0 +1,14 @@
+I:\Project\Force Academy\Temp\bin\Debug\Assembly-CSharp.dll
+I:\Project\Force Academy\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\Project\Force Academy\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+I:\Project\Force Academy\Temp\bin\Debug\LeapCSharp.NET3.5.dll
+I:\Project\Force Academy\Temp\bin\Debug\UnityEditor.dll
+I:\Project\Force Academy\Temp\bin\Debug\UnityEngine.dll
+I:\Project\Force Academy\Temp\bin\Debug\Mono.Cecil.dll
+I:\Project\Force Academy\Temp\bin\Debug\nunit.framework.dll
+I:\Project\Force Academy\Temp\bin\Debug\Unity.DataContract.dll
+I:\Project\Force Academy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+I:\Project\Force Academy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+I:\Project\Force Academy\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+I:\Project\Force Academy\obj\Debug\Assembly-CSharp.dll
+I:\Project\Force Academy\obj\Debug\Assembly-CSharp.pdb
